@@ -1,0 +1,2 @@
+
+include ':app', ':dl_lib',':plugin_a',':plugin_b'
